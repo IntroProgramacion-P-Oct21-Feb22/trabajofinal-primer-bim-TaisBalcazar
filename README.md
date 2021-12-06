@@ -1,5 +1,7 @@
 # Trabajo Final del Primer Bimestre
 
+## Integrantes: Jostin Alvarado y Tais Balcázar 
+
 ## Actividades
 
 * Por cada problemáticas realizar las siguientes actividades
